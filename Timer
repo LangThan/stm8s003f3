@@ -1,1 +1,1 @@
- TIM2_CR1=0x81; 
+ TIM2_CR1=0x81; //enable auto-reload and Enable time Counter
